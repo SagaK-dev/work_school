@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ts-fsrs": "5.4.1"
+    "ts-fsrs": "6.0.0"
   },
   "devDependencies": {
     "typescript": "5.9.3",
